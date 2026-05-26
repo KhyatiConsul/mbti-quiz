@@ -23,7 +23,7 @@ The goal of this project is to create a more introspective and psychologically g
 
 Read the introductory Medium article here:
 
-🔗 [The Personalities We Become](YOUR_MEDIUM_LINK_HERE)
+🔗 [The Personalities We Become]([https://medium.com/@khyati1516/the-personalities-we-become-8ce702b45922])
 
 ---
 
