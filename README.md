@@ -57,6 +57,7 @@ Read the introductory Medium article here:
 
 ## Project Structure
 
+```bash
 /project
 │
 ├── index.html
@@ -64,7 +65,7 @@ Read the introductory Medium article here:
 ├── script.js
 ├── descriptions.js
 └── assets/
-
+```
 ---
 
 ## Features
