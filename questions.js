@@ -237,13 +237,15 @@ const DESCRIPTIONS = {
   INTP: [
     "You examine reality the way others examine theories.",
     "You trust patterns more than certainty.",
-    "Most people live outwardly. You primarily exist inside cognition itself."
+    "Most people live outwardly. You primarily exist inside cognition itself.",
+    "<a href='https://medium.com/@khyati1516/intp-b3e904572368'>Read more</a>"
   ],
 
   ENTJ: [
     "You instinctively organize disorder the moment you enter it.",
     "You struggle to respect potential that never becomes action.",
-    "Competence is not impressive to you- it is expected."
+    "Competence is not impressive to you- it is expected.",
+    "<a href='https://medium.com/@khyati1516/entj-d55385c98bc1'>Read more</a>"
   ],
 
   ENTP: [
