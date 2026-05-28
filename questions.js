@@ -251,13 +251,15 @@ const DESCRIPTIONS = {
   ENTP: [
     "You test people by disrupting certainty.",
     "Your mind moves faster than emotional processing often allows.",
-    "You are rarely searching for answers. You are searching for intellectual expansion."
+    "You are rarely searching for answers. You are searching for intellectual expansion.",
+    "<a href='https://medium.com/@khyati1516/entp-ff735829ae75'>Read more</a>"
   ],
 
   INFJ: [
     "You notice what people suppress before they realize they are suppressing it.",
     "Your intuition forms conclusions long before logic catches up.",
-    "You carry emotional depth privately because exposure feels irreversible."
+    "You carry emotional depth privately because exposure feels irreversible.",
+    "<a href='https://medium.com/@khyati1516/infj-cc747de3ecf0'>Read more</a>"
   ],
 
   INFP: [
