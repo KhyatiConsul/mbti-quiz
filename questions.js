@@ -265,13 +265,15 @@ const DESCRIPTIONS = {
   INFP: [
     "You experience emotional reality symbolically rather than literally.",
     "You disappear into inner worlds when reality feels emotionally insufficient.",
-    "You mourn versions of life that never even happened."
+    "You mourn versions of life that never even happened.",
+    "<a href='https://medium.com/@khyati1516/infp-02464285c72d'>Read more</a>"
   ],
 
   ENFJ: [
     "You instinctively shape yourself around the emotional needs of others.",
     "You carry people emotionally even when nobody notices the weight.",
-    "You know how to make people feel seen while quietly feeling unseen yourself."
+    "You know how to make people feel seen while quietly feeling unseen yourself.",
+    "<a href='https://medium.com/@khyati1516/enfj-0de087f2fd36'>Read more</a>"
   ],
 
   ENFP: [
