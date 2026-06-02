@@ -279,13 +279,15 @@ const DESCRIPTIONS = {
   ENFP: [
     "You chase intensity because stillness forces confrontation with yourself.",
     "You romanticize possibility more than reality.",
-    "Your warmth hides exhaustion more often than people realize."
+    "Your warmth hides exhaustion more often than people realize.",
+    "<a href='https://medium.com/@khyati1516/enfp-f019b3745571'>Read more</a>"
   ],
 
   ISTJ: [
     "You learned early that reliability prevents collapse.",
     "You trust consistency more than emotional promises.",
-    "You carry responsibility quietly because depending on others feels dangerous."
+    "You carry responsibility quietly because depending on others feels dangerous.",
+    "<a href='https://medium.com/@khyati1516/istj-a974f0ebf831'>Read more</a>"
   ],
 
   ISFJ: [
