@@ -293,13 +293,15 @@ const DESCRIPTIONS = {
   ISFJ: [
     "You remember emotional details others fail to notice entirely.",
     "You often love people through endurance rather than expression.",
-    "You disappear into caretaking so deeply that people forget to ask how you are."
+    "You disappear into caretaking so deeply that people forget to ask how you are.",
+    "<a href='https://medium.com/@khyati1516/isfj-c6eb848676d5'>Read more</a>"
   ],
 
   ESTJ: [
     "You associate control with safety more than power.",
     "You respect discipline because chaos once taught you consequences.",
-    "You often become the structure others emotionally rely on."
+    "You often become the structure others emotionally rely on.",
+    "<a href='https://medium.com/@khyati1516/estj-6f1b6a81fc5b'>Read more</a>"
   ],
 
   ESFJ: [
