@@ -676,112 +676,113 @@ body {
 }
 
 @media (max-width: 600px) {
-
+ 
   .question-inner {
-    padding: 1.25rem 1.1rem;
-    min-height: unset;
+    padding: 1.25rem 1.1rem 1rem;
     height: 100dvh;
-    justify-content: space-between;
-  }
-
-  .question-header {
-    gap: 0.5rem;
-    margin-bottom: 0;
-    padding-bottom: 0.75rem;
+    display: flex;
     flex-direction: column;
+    justify-content: flex-start; 
   }
-
+ 
+  .question-header {
+    gap: 0.4rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+ 
   .header-meta {
     flex-direction: row;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
   }
-
+ 
   .question-body {
-    flex: 1;
-    justify-content: center;
-    padding: 0.75rem 0;
+    flex: 0 0 auto;    
+    justify-content: flex-start;
+    padding: 1.5rem 0 1.25rem;
   }
-
+ 
   .question-text {
-    font-size: clamp(1.3rem, 5.5vw, 1.7rem);
+    font-size: clamp(1.25rem, 5.2vw, 1.6rem);
     line-height: 1.55;
   }
-
+ 
   .options-wrap {
+    flex: 0 0 auto;
     margin-bottom: 0;
   }
-
+ 
   .option-btn {
     padding: 1rem 1.1rem;
     gap: 1rem;
   }
-
-  .option-text {
-    font-size: 0.85rem;
-  }
-
+ 
+  .option-text { font-size: 0.85rem; }
+ 
   .question-footer {
+    margin-top: auto;
     padding-top: 0.75rem;
   }
-
-  .title-main         { font-size: clamp(3rem, 15vw, 4.2rem); }
-  .landing-inner      { padding: 0 0.25rem; }
-
-  #screen-result      { padding: 1.5rem 1.1rem; }
-  .mbti-axes          { grid-template-columns: 1fr; }
-
+ 
+  /* Landing */
+  .title-main    { font-size: clamp(3rem, 15vw, 4.2rem); }
+  #screen-result { padding: 1.5rem 1.1rem; }
+  .mbti-axes     { grid-template-columns: 1fr; }
+ 
   .sticker-moth {
-    width: 52px;
-    top: 1.5vh;
-    right: 1.5vw;
+    width: 46px;
+    top: auto;
+    bottom: 22vh;  
+    right: 2vw;
     opacity: 0.55;
   }
+
   .sticker-waveform {
-    width: 90px;
+    width: 85px;
     bottom: 2vh;
     left: 2vw;
-    opacity: 0.5;
-  }
-  .sticker-coords {
-    width: 42px;
-    top: 3vh;
-    left: 2vw;
-    opacity: 0.5;
+    opacity: 0.48;
   }
 
-  .sticker-moon           { width: 52px; right: 3vw; top: 6vh; opacity: 0.6; }
+  .sticker-coords {
+    width: 40px;
+    top: 2.5vh;
+    left: 2vw;
+    opacity: 0.48;
+  }
+
+  .sticker-moon           { width: 50px; right: 3vw; top: 5vh; opacity: 0.6; }
   .sticker-fingerprint-lg { display: none; }
   .sticker-eye-lg         { display: none; }
   .sticker-ink            { display: none; }
-  .sticker-dossier {
-    width: 100px;
-    top: 12vh;
-    right: 2vw;
-    opacity: 0.5;
-  }
+  .sticker-dossier        { width: 96px; top: 11vh; right: 2vw; opacity: 0.5; }
 
-  .sticker-redact-block   { display: none; }
+  .sticker-redact-block { display: none; }
 
   .sticker-moth-sm {
-    bottom: 12vh;
-    right: auto;
-    left: 2vw;
-    width: 44px;
+    bottom: 2.5vh;
+    right: 3vw;
+    left: auto;
+    width: 40px;
     opacity: 0.5;
-    transform: rotate(-8deg);
+    transform: rotate(8deg);
   }
+
   .sticker-wave-q {
-    width: 120px;
-    bottom: 1.5vh;
-    opacity: 0.35;
+    width: 110px;
+    bottom: 2vh;
+    left: auto;
+    right: 3vw;
+    transform: none;
+    opacity: 0.32;
   }
-
-  .sticker-analysis-eye   { width: 90px; right: 3vw; bottom: 3vh; opacity: 0.35; }
-
-  .sticker-mirror       { width: 48px; right: 3vw; top: 2.5vh; opacity: 0.5; }
-  .sticker-filetab      { display: none; }
-  .sticker-moth-result  { width: 68px; right: 2vw; bottom: 3vh; opacity: 0.5; }
+ 
+  .sticker-analysis-eye { width: 85px; right: 3vw; bottom: 3vh; opacity: 0.35; }
+ 
+  .sticker-mirror      { width: 46px; right: 3vw; top: 2vh; opacity: 0.5; }
+  .sticker-filetab     { display: none; }
+  .sticker-moth-result { width: 64px; right: 2vw; bottom: 3vh; opacity: 0.5; }
 }
 
 @media (prefers-reduced-motion: reduce) {
