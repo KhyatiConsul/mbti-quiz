@@ -307,13 +307,15 @@ const DESCRIPTIONS = {
   ESFJ: [
     "You monitor emotional harmony constantly, even when exhausted.",
     "You fear becoming emotionally unnecessary more than being alone.",
-    "You give warmth instinctively while neglecting your own emotional depletion."
+    "You give warmth instinctively while neglecting your own emotional depletion.",
+    "<a href='https://medium.com/@khyati1516/esfj-b6312fcb383d'>Read more</a>"
   ],
 
   ISTP: [
     "You trust self-sufficiency because dependence once felt unsafe.",
     "You observe everything while revealing almost nothing.",
-    "You solve emotional discomfort through distance before vulnerability."
+    "You solve emotional discomfort through distance before vulnerability.",
+    "<a href='https://medium.com/@khyati1516/istp-f5a5d9a3282a'>Read more</a>"
   ],
 
   ISFP: [
