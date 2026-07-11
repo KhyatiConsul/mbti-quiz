@@ -321,13 +321,15 @@ const DESCRIPTIONS = {
   ISFP: [
     "You protect your inner world as if exposure could damage it permanently.",
     "Beauty affects you emotionally in ways difficult to explain logically.",
-    "You retreat quietly whenever reality becomes emotionally invasive."
+    "You retreat quietly whenever reality becomes emotionally invasive.",
+    "<a href='https://medium.com/@khyati1516/isfp-1dc410928b26'>Read more</a>"
   ],
 
   ESTP: [
     "You keep moving because stillness feels psychologically dangerous.",
     "You trust direct experience more than abstraction.",
-    "You transform emotional heaviness into momentum before it fully reaches you."
+    "You transform emotional heaviness into momentum before it fully reaches you.",
+    "<a href='https://medium.com/@khyati1516/estp-bb702f68acde'>Read more</a>"
   ],
 
   ESFP: [
