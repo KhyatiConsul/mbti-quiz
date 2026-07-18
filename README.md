@@ -84,12 +84,6 @@ Read the introductory Medium article here:
 - CSS
 - JavaScript
 
-### Planned Expansion
-- React
-- Flask backend
-- Database integration
-- Interactive archetype system
-
 ---
 
 ## Philosophy
