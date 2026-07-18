@@ -335,7 +335,8 @@ const DESCRIPTIONS = {
   ESFP: [
     "You learned to create light before anyone noticed your darkness.",
     "Your emotional intensity hides beneath performance and movement.",
-    "You fear being forgotten more than being misunderstood."
+    "You fear being forgotten more than being misunderstood.",
+    "<a href='https://medium.com/@khyati1516/esfp-195c8c1b7ca1'>Read more</a>"
   ]
 };
 
