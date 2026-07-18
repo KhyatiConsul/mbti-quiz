@@ -104,17 +104,6 @@ rather than simple personality labels.
 
 ---
 
-## Future Additions
-
-- Full article pages for each archetype
-- Cognitive function analysis
-- Archetype relationship dynamics
-- Interactive UI animations
-- Psychological profile generation
-- Dark mode / cinematic themes
-
----
-
 ## Note
 
 This project is created for educational, creative, and psychological exploration purposes only.
